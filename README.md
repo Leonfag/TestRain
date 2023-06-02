@@ -24,6 +24,6 @@ This command recreate the virtual environment, be careful when the environment i
 
 source ./path/virtual/environment/bin/activate
 
-To run tests:
+5 - To run tests:
 
 python -m pytest -n auto ./test_rain.py
